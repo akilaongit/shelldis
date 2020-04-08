@@ -16,3 +16,5 @@ Depencies
 
 Features
 🐬Open any file in your shell...
+
+![](lic.png)
